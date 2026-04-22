@@ -11,7 +11,7 @@ int main(void){
     s("%d",&num2);
 
     suma = num1 + num2;
-
+    p("hola");
     p("%d + %d + %d", num1,num2,suma);
 
     return 0;
